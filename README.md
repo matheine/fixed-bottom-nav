@@ -2,7 +2,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Fixed bottom navigation bar</h3>
+  <h3 align="center">Fixed bottom navigation bar example</h3>
 
   <p align="center">
     An awesome fixed bottom navigation bar
